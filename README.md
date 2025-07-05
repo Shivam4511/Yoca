@@ -39,3 +39,5 @@ Aggregates and summarizes all uploaded reports and prescription data to show an 
 | 🌐 Frontend   | React Native(Mobile)                      |
 | 🧾 Database   | MongoDB (for storing patient reports and history)              |
 
+# This project was presented by me and my team at TechFiesta International hackathon , we where our domain finalist from over 250+ teams , My role Team Lead and ML engineer
+
